@@ -8,7 +8,7 @@
       "tags": [],
       "repoUrl": "https://github.com/vofgofm/WineFinderPlugin",
       "assemblyUrl": "https://github.com/vofgofm/WineFinderPlugin/releases/download/Beta/WineFinder.dll",
-      "versionUrl": "https://github.com/vofgofm/WineFinderPlugin/releases/latest/download/pluginVersion",
+      "versionUrl": "https://github.com/vofgofm/WineFinderPlugin/releases/latest/download/pluginVersion.txt",
       "icons": {
         "main": "https://github.com/vofgofm/WineFinderPlugin/raw/main/path_to_icon.png"
       }
