@@ -19,6 +19,7 @@ namespace SamplePlugin
         public string Name => "Wine Finder";
         private const string CommandName = "/winefinder";
 
+
         private DalamudPluginInterface PluginInterface { get; init; }
         private ICommandManager CommandManager { get; init; }
         private IFramework Framework { get; init; }
