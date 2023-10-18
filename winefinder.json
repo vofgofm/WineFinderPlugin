@@ -1,13 +1,13 @@
 {
   "plugins": [
     {
-      "name": "YourPluginName",
-      "author": "YourName",
-      "description": "A brief description of your plugin.",
+      "name": "WineFinder",
+      "author": "vofgofm",
+      "description": "A plugin to find wine thieves in FFXIV.",
       "applicableVersion": "Any",
       "tags": [],
       "repoUrl": "https://github.com/vofgofm/WineFinderPlugin",
-      "assemblyUrl": "assemblyUrl": "https://github.com/vofgofm/WineFinderPlugin/releases/download/Beta/WineFinder.dll",
+      "assemblyUrl": "https://github.com/vofgofm/WineFinderPlugin/releases/download/Beta/WineFinder.dll",
       "versionUrl": "https://github.com/vofgofm/WineFinderPlugin/releases/latest/download/pluginVersion",
       "icons": {
         "main": "https://github.com/vofgofm/WineFinderPlugin/raw/main/path_to_icon.png"
