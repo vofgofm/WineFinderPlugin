@@ -8,14 +8,14 @@
         "RepoUrl": "https://github.com/vofgofm/WineFinderPlugin",
         "ApplicableVersion": "any",
         "Tags": [ "sample", "plugin", "goats" ],
-        "DalamudApiLevel": 9, // Assuming you're using the same API level as the example
+        "DalamudApiLevel": 9,
         "IconUrl": "https://github.com/vofgofm/WineFinderPlugin/raw/main/path_to_icon.png",
-        "IsHide": "False", // Assuming you don't want to hide your plugin
-        "IsTestingExclusive": "False", // Assuming your plugin isn't exclusive to testing
-        "LastUpdated": 1696380899, // This should be a UNIX timestamp of your plugin's last update
-        "DownloadCount": 0, // Assuming this is a new plugin with no downloads yet
-        "DownloadLinkInstall": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0/WineFinder.dll",
-        "DownloadLinkTesting": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0/WineFinder.dll",
-        "DownloadLinkUpdate": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0/WineFinder.dll"
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1696380899,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/vofgofm/WineFinderPlugin/raw/main/SamplePlugin/bin/x64/Debug/WineFinder.dll",
+        "DownloadLinkTesting": "https://github.com/vofgofm/WineFinderPlugin/raw/main/SamplePlugin/bin/x64/Debug/WineFinder.dll",
+        "DownloadLinkUpdate": "https://github.com/vofgofm/WineFinderPlugin/raw/main/SamplePlugin/bin/x64/Debug/WineFinder.dll"
     }
 ]
