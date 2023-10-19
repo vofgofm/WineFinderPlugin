@@ -6,7 +6,7 @@
         "applicableVersion": "any",
         "tags": [ "sample", "plugin", "goats" ],
         "repoUrl": "https://github.com/vofgofm/WineFinderPlugin",
-        "assemblyUrl": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0.0/WineFinder.dll",
+        "assemblyUrl": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0/WineFinder.dll",
         "versionUrl": "https://github.com/vofgofm/WineFinderPlugin/releases/latest/download/pluginVersion",
         "icons": {
             "main": "https://github.com/vofgofm/WineFinderPlugin/raw/main/path_to_icon.png"
