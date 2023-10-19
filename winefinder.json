@@ -12,6 +12,7 @@
             "main": "https://github.com/vofgofm/WineFinderPlugin/raw/main/path_to_icon.png"
         },
         "InternalName": "winefinder",
-        "Punchline": "updates every 30 seconds"
+        "Punchline": "updates every 30 seconds",
+        "AssemblyVersion": "1.0"
     }
 ]
