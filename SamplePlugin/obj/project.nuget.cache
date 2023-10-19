@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4IsybROGwYDU/JPokx11NmyXLMXdce62XJapgybedXJXrBurrXaaj8GRZE0YRi8ffjxzuQ0MVxQk2HP4jgnNwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samvg\\Downloads\\testplugin-master\\testplugin-master\\WineFinder\\SamplePlugin\\WineFinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samvg\\.nuget\\packages\\dalamudpackager\\2.1.12\\dalamudpackager.2.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

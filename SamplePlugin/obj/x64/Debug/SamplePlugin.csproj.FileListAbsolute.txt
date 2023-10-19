@@ -1,0 +1,11 @@
+C:\Users\samvg\Downloads\testplugin-master\testplugin-master\SamplePlugin\bin\x64\Debug\goat.png
+C:\Users\samvg\Downloads\testplugin-master\testplugin-master\SamplePlugin\bin\x64\Debug\SamplePlugin.deps.json
+C:\Users\samvg\Downloads\testplugin-master\testplugin-master\SamplePlugin\bin\x64\Debug\SamplePlugin.dll
+C:\Users\samvg\Downloads\testplugin-master\testplugin-master\SamplePlugin\bin\x64\Debug\SamplePlugin.pdb
+C:\Users\samvg\Downloads\testplugin-master\testplugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.csproj.AssemblyReference.cache
+C:\Users\samvg\Downloads\testplugin-master\testplugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samvg\Downloads\testplugin-master\testplugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.AssemblyInfoInputs.cache
+C:\Users\samvg\Downloads\testplugin-master\testplugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.AssemblyInfo.cs
+C:\Users\samvg\Downloads\testplugin-master\testplugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\samvg\Downloads\testplugin-master\testplugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.dll
+C:\Users\samvg\Downloads\testplugin-master\testplugin-master\SamplePlugin\obj\x64\Debug\SamplePlugin.pdb
