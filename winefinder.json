@@ -1,18 +1,21 @@
 [
     {
-        "name": "Wine Finder",
-        "author": "BigBard",
-        "description": "/winefinder",
-        "applicableVersion": "any",
-        "tags": [ "sample", "plugin", "goats" ],
-        "repoUrl": "https://github.com/vofgofm/WineFinderPlugin",
-        "assemblyUrl": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0/WineFinder.dll",
-        "versionUrl": "https://github.com/vofgofm/WineFinderPlugin/releases/latest/download/pluginVersion",
-        "icons": {
-            "main": "https://github.com/vofgofm/WineFinderPlugin/raw/main/path_to_icon.png"
-        },
+        "Author": "BigBard",
+        "Name": "Wine Finder",
+        "Description": "/winefinder",
         "InternalName": "winefinder",
-        "Punchline": "updates every 30 seconds",
-        "AssemblyVersion": "1.0"
+        "AssemblyVersion": "1.0",
+        "RepoUrl": "https://github.com/vofgofm/WineFinderPlugin",
+        "ApplicableVersion": "any",
+        "Tags": [ "sample", "plugin", "goats" ],
+        "DalamudApiLevel": 9, // Assuming you're using the same API level as the example
+        "IconUrl": "https://github.com/vofgofm/WineFinderPlugin/raw/main/path_to_icon.png",
+        "IsHide": "False", // Assuming you don't want to hide your plugin
+        "IsTestingExclusive": "False", // Assuming your plugin isn't exclusive to testing
+        "LastUpdated": 1696380899, // This should be a UNIX timestamp of your plugin's last update
+        "DownloadCount": 0, // Assuming this is a new plugin with no downloads yet
+        "DownloadLinkInstall": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0/WineFinder.dll",
+        "DownloadLinkTesting": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0/WineFinder.dll",
+        "DownloadLinkUpdate": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0/WineFinder.dll"
     }
 ]
