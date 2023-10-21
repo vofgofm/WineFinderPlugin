@@ -14,8 +14,9 @@
         "IsTestingExclusive": "False",
         "LastUpdated": 1696380899,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/vofgofm/WineFinderPlugin/raw/main/SamplePlugin/bin/x64/Debug/WineFinderPlugin.zip",
-        "DownloadLinkTesting": "https://github.com/vofgofm/WineFinderPlugin/raw/main/SamplePlugin/bin/x64/Debug/WineFinderPlugin.zip",
-        "DownloadLinkUpdate": "https://github.com/vofgofm/WineFinderPlugin/raw/main/SamplePlugin/bin/x64/Debug/WineFinderPlugin.zip"
+        "DownloadLinkInstall": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0/WineFinderPlugin.zip",
+        "DownloadLinkTesting": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0/WineFinderPlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/vofgofm/WineFinderPlugin/releases/download/1.0/WineFinderPlugin.zip"
+
     }
 ]
